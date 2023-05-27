@@ -1,0 +1,19 @@
+MySQL:
+  ativo: false
+  address: 'localhost:3306'
+  database: 'test'
+  username: 'root'
+  password: ''
+Kick:
+  Formato:
+    - '&c&lVOCÊ FOI KICKADO!'
+    - ''
+    - '&cAutor: &7%autor%'
+    - '&cMotivo: &7%motivo%'
+    
+  Motivo_default: 'Nenhum'
+  Alerta: true # Mandar mensagem em todo o servidor
+  Alerta_mensagem: 
+    - ''
+    - '&cO &c&n%jogador%&c foi expulso do servidor pelo &c&n%autor%!'
+    - ''

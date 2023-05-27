@@ -1,0 +1,26 @@
+name: zBPunish
+version: 1.0.0
+author: zBlackGamer
+main: pt.com.zBPunish.Main
+commands:
+  zbpunish:
+    aliases: [bans] 
+    description: Comando principal do plugin.
+  kick:
+    aliases: [kickar] 
+    description: Kicke um jogador.
+  ban:
+    aliases: [banir] 
+    description: Bana um jogador.
+  unban:
+    aliases: [desbanir] 
+    description: Desbana um jogador.
+  mute:
+    aliases: [mutar] 
+    description: Mute um jogador.
+  unmute:
+    aliases: [desmutar] 
+    description: Desmute um jogador.
+  punir:
+    aliases: [punish] 
+    description: Abrir menu de punições.

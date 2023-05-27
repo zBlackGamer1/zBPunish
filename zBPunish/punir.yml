@@ -1,0 +1,18 @@
+# -1 = Permanente | d = Dias | h = Horas | m = Minutos | Apenas disponivel 1 por cada punição (Por exemplo não se pode usar 7d 5h 2m, apenas 7d).
+# Os "_" nos nomes serão subsitituidos por espaços.
+# Tipos: ban|mute
+Hack:
+  Tempo: -1
+  Tipo: ban
+
+Abuso_de_Bugs:
+  Tempo: -1
+  Tipo: ban
+
+Spam:
+  Tempo: 4h
+  Tipo: mute
+
+Flood:
+  Tempo: 4h
+  Tipo: mute
